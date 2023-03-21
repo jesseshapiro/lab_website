@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Welcome / Bienvenue
-description: testtest
+description: 
 ---
+
+![Lab photo](_pics/welcome.jpeg)
