@@ -4,4 +4,4 @@ title: Welcome / Bienvenue
 description: 
 ---
 
-![Lab photo](_pics/welcome.jpeg)
+![Lab photo](/_pics/welcome.jpeg)
