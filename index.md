@@ -1,5 +1,5 @@
 ---
 layout: page
-title: lab_website
+title: Welcome / Bienvenue
 description: testtest
 ---
