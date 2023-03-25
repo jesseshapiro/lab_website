@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Shapiro Lab
+title : simple site
 author :
-  name : Jesse shapiro
-  email : 
-  github : jesseshapiro
+  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://jesseshapiro.github.io/lab_website
+production_url : https://kbroman.github.io/simple_site
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -51,7 +51,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://jesseshapiro.github.io/lab_website
+  BASE_PATH : https://kbroman.org/simple_site
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -104,5 +104,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-theme: jekyll-theme-cayman
