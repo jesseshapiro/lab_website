@@ -14,4 +14,4 @@ Our ongoing research tracks evolving microbial populations in real time, using w
 ​(4) semi-natural mesocosms at [LEAP](https://qcbs.ca/qcbs-research-showcase?showcase_id=35),  
 ​(5) genomic epidemiology and pandemic reponse with [CoVaRR-Net](https://covarrnet.ca).  
 ​
-​![Lab photo]({{ BASE_PATH }}/assets/pics/welcome.jpg)
+​![ecodiff]({{ BASE_PATH }}/assets/pics/ecodiff.jpg)
