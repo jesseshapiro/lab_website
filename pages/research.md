@@ -12,4 +12,4 @@ Our ongoing research tracks evolving microbial populations in real time, using w
 (2) the human gut, focusing on cholera infections,  
 (3) the evolution and ecology of antibiotic resistance,  
 ​(4) semi-natural mesocosms at [LEAP](https://qcbs.ca/qcbs-research-showcase?showcase_id=35),  
-​(5) genomic epidemiology and pandemic reponse with [CoVaRR-Net] (https://covarrnet.ca). 
+​(5) genomic epidemiology and pandemic reponse with [CoVaRR-Net](https://covarrnet.ca). 
