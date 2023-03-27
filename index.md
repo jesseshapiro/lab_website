@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome / Bienvenue
+title: microbial eco-evolutionary genomics
 description: 
 ---
 Pardon our appearance; *this website is under construction*!  
