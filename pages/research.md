@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Temporary test page
+description: Research
 ---
 
 ### Most of the genetic and metabolic diversity that exists on earth – and has existed for billions of years – is microbial. 
