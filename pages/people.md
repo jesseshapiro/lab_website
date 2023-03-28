@@ -4,11 +4,14 @@ title: People
 description: People
 ---
 
- | Principal investigator:
+               | Principal investigator:
 -------------: | :-------------
-![jesse]({{ BASE_PATH }}/assets/pics/jesse-headshot.jpg)   | B. Jesse Shapiro<br>Associate professor<br>Department of Microbiology & Immunology<br>McGill University<br>Investigator, McGill Genome Centre<br>jesse dot shapiro at mcgill dot ca
+![jesse]({{ BASE_PATH }}/assets/pics/jesse-headshot.jpg)   | **B. Jesse Shapiro**<br>Associate professor<br>Department of Microbiology & Immunology<br>McGill University<br>Investigator, McGill Genome Centre<br>jesse dot shapiro at mcgill dot ca
 
- | Graduate students:
+               | Graduate students:
 -------------: | :-------------
-![naila]({{ BASE_PATH }}/assets/pics/naila.jpeg)          | [Naíla Barbosa da Costa](https://nailacosta.weebly.com/)<br>Aquatic microbial communities are constantly exposed to a combination of different stressors, usually brought from agricultural lands within the watershed. In my PhD, I studied the impact of commonly-used agrochemicals on bacterioplankton. I worked in collaboration with researchers from McGill University in the LEAP  project to gather experimental data on how freshwater bacteria respond to environmental disturbances at the community, genetic and population level. I also collaborated with the Lake Pulse microbiome research team producing sequencing data of bacterioplankton communities in lakes across Canada with different degrees of human impact.
+![emma]({{ BASE_PATH }}/assets/pics/emma.png)   | **Emma Derrick**<br>_Research interests:_ Most of our current knowledge of bacterial evolution comes from experiments done in a laboratory environment. I am interested in studying how bacteria evolve in a semi-natural aquatic community, where bacteria can interact with each other and their environment. Using the McGill Gault Nature Reserve’s Large Experimental Array of Ponds, we can simulate a series of herbicide contaminated lakes to study the evolutionary responses of bacteria after herbicide contamination.<br>_Background:_ I completed my B.Sc. at McGill University in Microbiology and Immunology. During my undergrad I joined the Shapiro lab and worked on a project looking at susceptibility to cholera infection using metagenomes.
+
+Alumni:  
+* Dr. [Naíla Barbosa da Costa](https://nailacosta.weebly.com/), PhD 2022
 
