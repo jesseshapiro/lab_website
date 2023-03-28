@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Test page
-description: Temporary test page
+title: People
+description: People
 ---
 
-This site is under construction!
+![ecodiff]({{ BASE_PATH }}/assets/pics/jesse-headshot.jpg)  | Principal investigator: B. Jesse Shapiro  
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+

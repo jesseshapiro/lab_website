@@ -15,5 +15,5 @@ Our ongoing research tracks evolving microbial populations in real time, using w
 1. ​semi-natural mesocosms at [LEAP](https://qcbs.ca/qcbs-research-showcase?showcase_id=35),  
 1. ​genomic epidemiology and pandemic reponse with [CoVaRR-Net](https://covarrnet.ca).  
 ​  
-​![ecodiff]({{ BASE_PATH }}/assets/pics/ecodiff.jpg).  
+​![ecodiff]({{ BASE_PATH }}/assets/pics/ecodiff.jpg)    
 *​Illustration of bacterial speciation with gene flow, modified from [Shapiro et al. 2012](https://pubmed.ncbi.nlm.nih.gov/22491847/)*
