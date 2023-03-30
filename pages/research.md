@@ -16,4 +16,4 @@ Our ongoing research tracks evolving microbial populations in real time, using w
 1. ​genomic epidemiology and pandemic reponse with [CoVaRR-Net](https://covarrnet.ca).  
 ​  
 ​![ecodiff]({{ BASE_PATH }}/assets/pics/ecodiff.jpg)    
-*​Illustration of bacterial speciation with gene flow, modified from [Shapiro et al. 2012](https://pubmed.ncbi.nlm.nih.gov/22491847/)*
+*​Illustration of bacterial speciation with gene flow, modified from* [Shapiro et al. 2012](https://pubmed.ncbi.nlm.nih.gov/22491847/)
