@@ -15,7 +15,7 @@ Pardon our appearance; *this website is under construction*!
 <br><br>
 
 
-**The lab is located at the McGill Genome Centre** - Stop by and say hi! We have coffee.  
+**The lab is located at the [McGill Genome Centre](https://www.mcgillgenomecentre.ca/)** - Stop by and say hi! We have coffee.  
 ![centre](assets/pics/genomecentre.jpeg)
 
 or you might also find us having a bbq or picnic. 
