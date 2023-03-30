@@ -4,7 +4,7 @@ title: Our values / Nos valeurs
 description: Values
 ---
 <br>
-![values](assets/pics/values.jpeg) 
+![values]({{ BASE_PATH }}/assets/pics/values.jpeg)
 <br>
 ​We value the diversity of backgrounds already represented in our lab group, and we are always striving to do better in recruiting and supporting under-represented groups. We do not tolerate hate of any kind. We are committed to fighting racism and sexism, and promoting equity, diversity and inclusion in science and society.
 ​<br>
