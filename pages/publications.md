@@ -10,18 +10,18 @@ For a complete list, please see [Google Scholar](https://scholar.google.ca/citat
    
 **Preprints** 
 
-Naderi S, Chen PE, Murall CL, Poujol R, Kraemer SA, Pickering BS, Sagan SM & Shapiro BJ (2022). Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.02.494559v3.abstract)
-
 N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1)  
 
 N'Guessan A et al. (2022) Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping combined with genome sequence analysis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.01.494373v1.abstract). 
 
-Chen PE & Shapiro BJ (2021). Classic genome-wide association methods are unlikely to identify causal variants in strongly clonal microbial populations. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.30.450606v1)
-
-Saber MM, Donner M et al. (2021). Single nucleotide variants in *Pseudomonas aeruginosa* populations from sputum correlate with baseline lung function and predict disease progression in individuals with cystic fibrosis [medRxiv](https://www.medrxiv.org/content/10.1101/2021.10.04.21264421v1)  
+Chen PE & Shapiro BJ (2021). Classic genome-wide association methods are unlikely to identify causal variants in strongly clonal microbial populations. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.30.450606v1) 
 
 **2023**  
 Madi N, Chen D, Wolff R, Shapiro BJ & Garud N. Community diversity is associated with intra-species genetic diversity and gene loss in the human gut microbiome. [eLife](https://elifesciences.org/articles/78530). 
+
+Naderi S, Chen PE, Murall CL, Poujol R, Kraemer SA, Pickering BS, Sagan SM & Shapiro BJ. Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis. [eLife](https://elifesciences.org/articles/83685)
+
+Saber MM, Donner M et al. Single nucleotide variants in *Pseudomonas aeruginosa* populations from sputum correlate with baseline lung function and predict disease progression in individuals with cystic fibrosis [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000981) 
 
 Douglas GM, Kim S, Langille MGI & Shapiro BJ. Efficient computation of contributional diversity metrics from microbiome data with *FuncDiv*. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac809).  
 
