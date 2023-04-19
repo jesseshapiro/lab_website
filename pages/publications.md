@@ -21,7 +21,7 @@ Madi N, Chen D, Wolff R, Shapiro BJ & Garud N. Community diversity is associated
 
 Naderi S, Chen PE, Murall CL, Poujol R, Kraemer SA, Pickering BS, Sagan SM & Shapiro BJ. Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis. [eLife](https://elifesciences.org/articles/83685)
 
-Saber MM, Donner M et al. Single nucleotide variants in *Pseudomonas aeruginosa* populations from sputum correlate with baseline lung function and predict disease progression in individuals with cystic fibrosis [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000981) 
+Saber MM, Donner M et al. Single nucleotide variants in *Pseudomonas aeruginosa* populations from sputum correlate with baseline lung function and predict disease progression in individuals with cystic fibrosis. [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000981) 
 
 Douglas GM, Kim S, Langille MGI & Shapiro BJ. Efficient computation of contributional diversity metrics from microbiome data with *FuncDiv*. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac809).  
 

@@ -47,6 +47,7 @@ Email Jesse to apply. Please include:
 * Kiri Stern (MSc, 2020). Now a PhD student in Quantitative Life Sciences at McGill.
 * [Dr. Jean-Baptiste Leducq](https://www.jbleducq.com/) (postdoc 2016-2021): Now an assistant professor at Université Laval
 * [Dr. ​Catherine Girard](https://patrimoinemicrobien.ca/) (PhD, 2017): Now a faculty member at UQAC​
+* Elisa Moreno (undergrad, 2019-2020): Now a PhD student at the Jebsen Center for Genetic Epidemiology, Norway
 * Dr. Larbi Bedrani (bioinformatics intern, summer-fall 2015): Now a postdoc at the University of Toronto, Mount Sinai Hospital, Department of Gastroenterology
 * Dr. Coralie Deladrière (field & lab assistant, summer 2015): Now an analytical chemist at PCAS Canada.
 * Romane Marcoz (undergrad, summer 2015): Now doing a Masters in Public Health at UdeM
