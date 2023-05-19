@@ -7,12 +7,11 @@ Pardon our appearance; *this website is under construction*!
 <br>
 ![Lab photo](assets/pics/welcome.jpg)
 <br>
-**News** - Winter 2023 
+**News** - Spring 2023 
 
-1. Naima's paper "Community diversity is associated with intra-species genetic diversity and gene loss in the human gut microbiome" is now out in [eLife](https://elifesciences.org/articles/78530). This was a fun collaboration with the [Garud lab](https://bioscience.ucla.edu/people/nandita-garud/). Read more about it in this [thread](https://twitter.com/bjesseshapiro/status/1623759198516305920?s=20).
-2. Sana's paper "Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis" is also out in [eLife](https://elifesciences.org/articles/83685). Team work by multiple lab members & [Selena Sagan](https://www.saganlab.com/). 
-3. Gavin's paper "Efficient computation of contributional diversity metrics from microbiome data with *FuncDiv*." is out in [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac809). Read all about it in Gavin's [thread](https://twitter.com/gavin_m_douglas/status/1622951069293903874?s=20).
-4. We are thrilled to have [Dr. Aline Cuénod](https://scholar.google.com/citations?user=6OxAByoAAAAJ&hl=en) join the lab!
+1. Sana's paper "Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis" is also out in [eLife](https://elifesciences.org/articles/83685). Team work by multiple lab members & [Selena Sagan](https://www.saganlab.com/). 
+2. Gavin's preprint "Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes" is out in [bioRxiv](https://doi.org/10.1101/2023.05.17.541134). Check out his thread about it on [twitter](https://twitter.com/gavin_m_douglas/status/1659555557374656512?s=20).
+3. We are thrilled to have [Dr. Aline Cuénod](https://scholar.google.com/citations?user=6OxAByoAAAAJ&hl=en) join the lab!
 <br><br>
 
 
