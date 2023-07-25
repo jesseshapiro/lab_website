@@ -39,7 +39,7 @@ Email Jesse to apply. Please include:
 * Dr. [Naíla Barbosa da Costa](https://nailacosta.weebly.com/), PhD 2022
 * Dr. Carmen Lía Murall (postdoc 2019-2021): Now COVID-19 Genomics Lead at Public Health Agency of Canada
 * Dr. Morteza M. Saber (postdoc 2018-2021): Now a bioinformatician/data scientist at [MIMS](https://www.mims.ai/)
-* Arnaud N'Guessan (MSc 2021): Now a PhD candidate at the University of Toronto
+* [Arnaud N'Guessan](https://www.utm.utoronto.ca/biology/people/arnaud-nguessan) (MSc 2021): Now a PhD candidate at the University of Toronto
 * Dr. Peter Chen (PhD 2021): Now a postdoc with Jesse and Michael Reed at [RI-MUHC](https://rimuhc.ca/)
 * Dr. Olga Pérez Carrascal (postdoc 2017-2021): Now a postdoc with Michael Shapira at UC Berkeley
 * Dr. Yves Terrat (postdoc 2015-2021): Now a data scientist at [UdeM/IVADO](https://santenumerique.umontreal.ca/le-consortium/equipe/)

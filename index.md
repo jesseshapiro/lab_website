@@ -5,7 +5,7 @@ description: bonjour/hi
 ---
 Pardon our appearance; *this website is under construction*!  
 <br>
-![Lab photo](assets/pics/welcome.jpg)
+![Lab photo](assets/pics/welcome2023.png)
 <br>
 **News** - Summer 2023 
 
@@ -24,3 +24,5 @@ or you might also find us having a bbq or picnic.
 ![picnic](assets/pics/picnic1.jpeg)  
 rain or shine...  
 ![picnic](assets/pics/picnic2.jpeg)
+the lab circa 2014:
+![Lab photo](assets/pics/welcome.jpg)
