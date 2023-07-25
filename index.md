@@ -3,8 +3,6 @@ layout: page
 title: microbial eco-evolutionary genomics
 description: bonjour/hi
 ---
-Pardon our appearance; *this website is under construction*!  
-<br>
 ![Lab photo](assets/pics/welcome2023.png)
 <br>
 **News** - Summer 2023 
