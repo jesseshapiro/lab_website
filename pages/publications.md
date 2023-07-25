@@ -14,13 +14,13 @@ Madi N, et al. (2023). Phage predation and antibiotic exposure are inversely ass
 
 Douglas GM, Doolittle WF, Shapiro BJ (2023). Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes. [bioRxiv](https://doi.org/10.1101/2023.05.17.541134).
 
-N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).  
-
-N'Guessan A et al. (2022) Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping combined with genome sequence analysis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.01.494373v1.abstract). 
+N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).
 
 Chen PE & Shapiro BJ (2021). Classic genome-wide association methods are unlikely to identify causal variants in strongly clonal microbial populations. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.30.450606v1). 
 
 **2023**  
+N'Guessan A et al. Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping and sequence analysis. [iScience](https://www.sciencedirect.com/science/article/pii/S2589004223014712). 
+
 Madi N, Chen D, Wolff R, Shapiro BJ & Garud N. Community diversity is associated with intra-species genetic diversity and gene loss in the human gut microbiome. [eLife](https://elifesciences.org/articles/78530). 
 
 Naderi S, Chen PE, Murall CL, Poujol R, Kraemer SA, Pickering BS, Sagan SM & Shapiro BJ. Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis. [eLife](https://elifesciences.org/articles/83685)
