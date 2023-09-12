@@ -37,6 +37,7 @@ Email Jesse to apply. Please include:
 - contact information for 2 references
 
 ### Lab Alumni:  
+* Dr. Naima Madi, PhD 2023
 * Dr. [Naíla Barbosa da Costa](https://nailacosta.weebly.com/), PhD 2022
 * Dr. Carmen Lía Murall (postdoc 2019-2021): Now COVID-19 Genomics Lead at Public Health Agency of Canada
 * Dr. Morteza M. Saber (postdoc 2018-2021): Now a bioinformatician/data scientist at [MIMS](https://www.mims.ai/)
