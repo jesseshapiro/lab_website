@@ -12,7 +12,7 @@ For a complete list, please see [Google Scholar](https://scholar.google.ca/citat
 
 Madi N, et al. (2023). Phage predation and antibiotic exposure are inversely associated with disease severity and shape pathogen genetic diversity in cholera patients [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v1).
 
-Douglas GM, Doolittle WF, Shapiro BJ (2023). Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes. [bioRxiv](https://doi.org/10.1101/2023.05.17.541134).
+Douglas GM & Shapiro BJ (2023). Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes. [bioRxiv](https://doi.org/10.1101/2023.05.17.541134).
 
 N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).
 
