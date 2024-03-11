@@ -5,12 +5,12 @@ description: bonjour/hi
 ---
 ![Lab photo](assets/pics/welcome2023.png)
 <br>
-**News** - Summer 2023 
+**News** - Winter 2024 
 
-1. Arnaud's paper "Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping and sequence analysis" in collaboration with the [Fritz](https://www.mcgill.ca/microimm/jorg-hermann-fritz) & [Piccirillo](https://www.mcgill.ca/microimm/ciriaco-piccirillo) labs, is out in [iScience](https://www.sciencedirect.com/science/article/pii/S2589004223014712). Twitter thread [here](https://twitter.com/bjesseshapiro/status/1681292825105768449?s=20).
-2. Naima's preprint "Phage predation and antibiotic exposure are inversely associated with disease severity and shape pathogen genetic diversity in cholera patients" is out in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v1). Twitter thread [here](https://twitter.com/bjesseshapiro/status/1669341247092162560?s=20).
-3. Sana's paper "Zooanthroponotic transmission of SARS-CoV-2 and host-specific viral mutations revealed by genome-wide phylogenetic analysis" is out in [eLife](https://elifesciences.org/articles/83685). Team work by many lab members & [Selena Sagan](https://www.saganlab.com/). Read the news release [here](https://www.mcgill.ca/newsroom/channels/news/covid-infections-animals-key-ongoing-trajectory-pandemic-350373).
-<br><br>
+1. Naima's preprint "Phage predation is a biomarker for disease severity and shapes pathogen genetic diversity in cholera patients" is out in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v2). Twitter thread [here](https://twitter.com/bjesseshapiro/status/1669341247092162560?s=20).
+2. Gavin's paper "Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes" is out in [Nature Ecology & Evolution](https://www.nature.com/articles/s41559-023-02268-6). Read the *News & Views* [here](https://www.nature.com/articles/s41559-023-02276-6).
+3. Visiting scholar Dr. Mira El Chaar has a paper out with Gavin & Georgi from the lab: "Longitudinal genomic surveillance of multidrug-resistant *Escherichia coli* carriage in critical care patients" in [Microbiology Spectrum](https://journals.asm.org/doi/full/10.1128/spectrum.03128-23).
+
 
 
 **The lab is located at the [McGill Genome Centre](https://www.mcgillgenomecentre.ca/)** - Stop by and say hi! We have coffee.  

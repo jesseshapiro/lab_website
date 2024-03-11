@@ -10,13 +10,17 @@ For a complete list, please see [Google Scholar](https://scholar.google.ca/citat
    
 **Preprints** 
 
-Madi N, et al. (2023). Phage predation and antibiotic exposure are inversely associated with disease severity and shape pathogen genetic diversity in cholera patients [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v1).
+Lypaczewski P et al. (2024). Diversity of *Vibrio cholerae* O1 through the human gastrointestinal tract during cholera. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.08.579476v1.abstract).
 
-Douglas GM & Shapiro BJ (2023). Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes. [bioRxiv](https://doi.org/10.1101/2023.05.17.541134).
+Madi N et al. (2023). Phage predation is a biomarker for disease severity and shapes pathogen genetic diversity in cholera patients. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v2).
 
 N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).
 
 Chen PE & Shapiro BJ (2021). Classic genome-wide association methods are unlikely to identify causal variants in strongly clonal microbial populations. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.30.450606v1). 
+
+**2024**  
+Douglas GM & Shapiro BJ. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. [Nature Ecology & Evolution](https://www.nature.com/articles/s41559-023-02268-6).
+* [*News & Views*](https://www.nature.com/articles/s41559-023-02276-6)
 
 **2023**  
 N'Guessan A et al. Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping and sequence analysis. [iScience](https://www.sciencedirect.com/science/article/pii/S2589004223014712). 
