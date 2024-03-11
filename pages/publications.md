@@ -12,6 +12,8 @@ For a complete list, please see [Google Scholar](https://scholar.google.ca/citat
 
 Lypaczewski P et al. (2024). Diversity of *Vibrio cholerae* O1 through the human gastrointestinal tract during cholera. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.08.579476v1.abstract).
 
+Sutcliffe SG et al. (2023). Tracking SARS-CoV-2 variants of concern in wastewater: an assessment of nine computational tools using simulated genomic data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.20.572426v1.abstract).
+
 Madi N et al. (2023). Phage predation is a biomarker for disease severity and shapes pathogen genetic diversity in cholera patients. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v2).
 
 N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).
