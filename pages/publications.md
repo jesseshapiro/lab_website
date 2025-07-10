@@ -4,25 +4,23 @@ title: Publications
 description: Publications
 ---
 
-### Recent papers 
-For a complete list, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Ohu9Gc4AAAAJ&view_op=list_works&sortby=pubdate). 
-  
-   
-**Preprints** 
+### Selected recent papers 
+For a complete list, including the latest preprints, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Ohu9Gc4AAAAJ&view_op=list_works&sortby=pubdate).
 
-Lypaczewski P et al. (2024). Diversity of *Vibrio cholerae* O1 through the human gastrointestinal tract during cholera. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.08.579476v1.abstract).
+**2025**  
+Cuenod A et al. Prevalent chromosome fusion in Vibrio cholerae O1. [Nature Communications](https://www.nature.com/articles/s41467-025-60699-0). * [*Blog post*](https://communities.springernature.com/posts/identifying-fused-chromosomes-in-vibrio-cholerae-o1)
 
-Sutcliffe SG et al. (2023). Tracking SARS-CoV-2 variants of concern in wastewater: an assessment of nine computational tools using simulated genomic data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.20.572426v1.abstract).
-
-Madi N et al. (2023). Phage predation is a biomarker for disease severity and shapes pathogen genetic diversity in cholera patients. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.14.544933v2).
-
-N'Guessan A et al. (2022) Detection of prevalent SARS-CoV-2 variant lineages in wastewater and clinical sequences from cities in Québec, Canada. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.01.22270170v1).
-
-Chen PE & Shapiro BJ (2021). Classic genome-wide association methods are unlikely to identify causal variants in strongly clonal microbial populations. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.30.450606v1). 
+Naderi S, Sagan SM & Shapiro BJ. Within-host genetic diversity of SARS-CoV-2 across animal species. [Virus Evolution](https://academic.oup.com/ve/article/11/1/veae117/7934602?login=true).
 
 **2024**  
+Madi N et al. Phage predation, disease severity, and pathogen genetic diversity in cholera patients. [Science](https://www.science.org/doi/full/10.1126/science.adj3166).
+
 Douglas GM & Shapiro BJ. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. [Nature Ecology & Evolution](https://www.nature.com/articles/s41559-023-02268-6).
 * [*News & Views*](https://www.nature.com/articles/s41559-023-02276-6)
+
+Sutcliffe SG et al. Tracking SARS-CoV-2 variants of concern in wastewater: an assessment of nine computational tools using simulated genomic data. [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001249).
+
+Lypaczewski P, Chac D et al. Vibrio cholerae O1 experiences mild bottlenecks through the gastrointestinal tract in some but not all cholera patients. [Microbiology Spectrum](https://journals.asm.org/doi/full/10.1128/spectrum.00785-24).
 
 **2023**  
 N'Guessan A et al. Selection for immune evasion in SARS-CoV-2 revealed by high-resolution epitope mapping and sequence analysis. [iScience](https://www.sciencedirect.com/science/article/pii/S2589004223014712). 
