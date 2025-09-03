@@ -12,8 +12,11 @@ Cuenod A et al. Prevalent chromosome fusion in Vibrio cholerae O1. [Nature Commu
 
 Naderi S, Sagan SM & Shapiro BJ. Within-host genetic diversity of SARS-CoV-2 across animal species. [Virus Evolution](https://academic.oup.com/ve/article/11/1/veae117/7934602?login=true).
 
+Qin C et al. *Vibrio cholerae* lineage and pangenome diversity vary geographically across Bangladesh over 1 year. [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001437).
+
 **2024**  
 Madi N et al. Phage predation, disease severity, and pathogen genetic diversity in cholera patients. [Science](https://www.science.org/doi/full/10.1126/science.adj3166).
+* [*2024 Omenn Prize Honorable Mention*](https://isemph.org/Omenn-Prize)
 
 Douglas GM & Shapiro BJ. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. [Nature Ecology & Evolution](https://www.nature.com/articles/s41559-023-02268-6).
 * [*News & Views*](https://www.nature.com/articles/s41559-023-02276-6)
